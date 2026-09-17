@@ -1,5 +1,5 @@
 # weather_balloon_2026
-This is an [update](https://github.com/pcamus/weather_balloon_project) of the 2022 weather_balloon_project.
+This is an update of the [2022 weather_balloon_project](https://github.com/pcamus/weather_balloon_project).
 
 Since the update was requested on very short notice, we built upon the previous version, replacing the processor board with its newer version offering more flash memory.
 
@@ -9,6 +9,7 @@ To maintain interest in the planned flight, however, we added other measurements
 
 So, in summary, our system will measure: the temperature inside and outside the payload box, atmospheric pressure, battery voltage, and the current supplied by the battery. Measurements will be taken every 5 seconds.
 
+The balloon's position over time should be provided by amateur radio operators who will track the balloon (using their own radio module, also carried onboard the payload box). They will also recover our system upon landing (conditions permitting) in order to retrieve the flight data stored in our module.
 
 ## Hardware setup.
 
