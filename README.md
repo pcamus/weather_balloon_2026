@@ -3,7 +3,7 @@ This is an update of the [2022 weather_balloon_project](https://github.com/pcamu
 
 Since the update was requested on very short notice, we built upon the previous version, replacing the processor board with its newer version offering more flash memory.
 
-Due to a lack of time for fine-tuning, we removed the acceleration measurement feature, which had not yielded the expected results because of an excessively low sampling rate. The objective of these measurements was to compare the balloon's behavior during its liftoff phase against a theoretical model.
+Due to a lack of time for fine-tuning, we removed the acceleration measurement feature, which had not yielded the expected results because of an too low sampling rate. The objective of these measurements was to compare the balloon's behavior during its liftoff phase against a theoretical model.
 
 To maintain interest in the planned flight, however, we added other measurements that were easy to implement: temperature outside the payload box and battery performance throughout the flight.
 
@@ -26,11 +26,11 @@ Care must also be taken as the Waveshare 10-DOF IMU board comes in several versi
 
 For the prototype I also use a [Quad GPIO Expander](https://www.waveshare.com/pico-quad-expander.htm) from Waveshare
 
-*Prototype setup (DS18B20 sensor not shown):*
+*The stacked version (wheight = 50 g) looks like that(DS18B20 sensor not shown):*
 
 <img width="1133" height="753" alt="ballon_stack" src="https://github.com/user-attachments/assets/4efe90a2-ebe4-4de1-a8e3-3327e1a03192" />
 
-*The stacked version (wheight = 50 g) looks like that:*
+
 
 ## Software.
 
