@@ -1,14 +1,18 @@
 # weather_balloon_2026
 This is an [update](https://github.com/pcamus/weather_balloon_project) of the 2022 weather_balloon_project.
 
-This updated project uses a Raspberry Pi Pico 2 (powered by a [RP2350](https://www.raspberrypi.com/products/rp2350/) with 4MB of flash memory) and 2 extension modules to design a weather balloon experiment.
+Since the update was requested on very short notice, we built upon the previous version, replacing the processor board with its newer version offering more flash memory.
 
-The purpose of this experiment is to measure flight parameters of the balloon (pressure, indoor and outdoor temperature, battery voltage and current).
+Due to a lack of time for fine-tuning, we removed the acceleration measurement feature, which had not yielded the expected results because of an excessively low sampling rate. The objective of these measurements was to compare the balloon's behavior during its liftoff phase against a theoretical model.
+
+To maintain interest in the planned flight, however, we added other measurements that were easy to implement: temperature outside the payload box and battery performance throughout the flight.
+
+So, in summary, our system will measure: the temperature inside and outside the payload box, atmospheric pressure, battery voltage, and the current supplied by the battery. Measurements will be taken every 5 seconds.
 
 
 ## Hardware setup.
 
-- A Raspbery Pi Pico.
+- A Raspbery Pi Pico 2 (powered by a [RP2350](https://www.raspberrypi.com/products/rp2350/) with 4MB of flash memory).
 - A [10-DOF IMU](https://www.waveshare.com/wiki/Pico-10DOF-IMU) from Waveshare.
 - A battery module [Pico UPS A](https://www.waveshare.com/wiki/Pico-UPS-A) from Waveshare.
 - A waterproof version of the [DS18B20](https://www.analog.com/media/en/technical-documentation/data-sheets/ds18b20.pdf) (-55 to 125 °C) in thermoplastic housing
@@ -18,6 +22,7 @@ It should be noted that the 10-DOF IMU board used contains two components: an MP
 In this version, we will not be using the accelerometer.
 
 Care must also be taken as the Waveshare 10-DOF IMU board comes in several versions with different, non-compatible chips. The version used here is Version 2.1.
+
 For the prototype I also use a [Quad GPIO Expander](https://www.waveshare.com/pico-quad-expander.htm) from Waveshare
 
 *Prototype setup:*
