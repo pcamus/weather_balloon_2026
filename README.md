@@ -26,7 +26,7 @@ Care must also be taken as the Waveshare 10-DOF IMU board comes in several versi
 
 For the prototype I also use a [Quad GPIO Expander](https://www.waveshare.com/pico-quad-expander.htm) from Waveshare
 
-*The stacked version (wheight = 50 g,DS18B20 sensor not shown) looks like that:*
+*The stacked version (wheight = 50 g, DS18B20 sensor not shown) looks like that:*
 
 <img width="1133" height="753" alt="ballon_stack" src="https://github.com/user-attachments/assets/4efe90a2-ebe4-4de1-a8e3-3327e1a03192" />
 
