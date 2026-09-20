@@ -23,7 +23,7 @@ import onewire
 import ds18x20
 import time
 import ina219
-#import lps22hb.py
+import lps22hb_mod
 
 # -----------------------------------------------------------------------------
 # General parameters
@@ -43,20 +43,20 @@ hb.off()
 # -----------------------------------------------------------------------------
 # DS18B20 initialization : temperature outside the payload
 # -----------------------------------------------------------------------------
-# PIN_DATA = 22           # DS18B20 on GP22
-# ow = onewire.OneWire(Pin(PIN_DATA))
-# ds = ds18x20.DS18X20(ow)
-# 
-# id = ds.scan()  # we have just one sensor, it will be roms[0]
-# 
-# print("Sonde ID : ", id[0])
+PIN_DATA = 22           # DS18B20 on GP22
+ow = onewire.OneWire(Pin(PIN_DATA))
+ds = ds18x20.DS18X20(ow)
+
+id = ds.scan()  # we have just one sensor, it will be roms[0]
+
+print("Sonde ID : ", id[0])
 
 # --------------------------------------------------------------------------------
 # LPS22HB initialization : atmospheric pressure and temperature inside the payload
 # --------------------------------------------------------------------------------
 
-#lps22hb=LPS22HB()
-# pressure, temperature = lps22hb.LPS22HB_READ_P_T() # reads once before to remove false values
+lps22hb=lps22hb_mod.LPS22HB()
+pressure, T_in = lps22hb.LPS22HB_READ_P_T() # reads once before to remove false values
 
 # --------------------------------------------------------------------------------
 # INA219 initialization : battery voltage and current
@@ -92,11 +92,11 @@ try:
         elapsed = time.ticks_diff(time.ticks_ms(), start_time) // 1000
 
         # call to DS18B20 sensor - must wait a little lesss than 750 ms
-        T_out=1.5
-#         ds.convert_temp()
-#         time.sleep_ms(750)
-#         # read outside temperature
-#         T_out = ds.read_temp(id[0])
+#       T_out=1.5
+        ds.convert_temp()
+        time.sleep_ms(750)
+        # read outside temperature
+        T_out = ds.read_temp(id[0])
         str_T_out=f"{T_out:.1f}".replace('.',',')
         
         # display for debug
@@ -105,12 +105,13 @@ try:
         
 
         # call to LPS22HB chip (for inside temperature and pressure)
-        T_in = 0.1
-        pressure = 0.2
-        # pressure, temperature = lps22hb.LPS22HB_READ_P_T() # reads once before to remove false values
+#         T_in = 0.1
+#         pressure = 0.2
+        pressure, T_in = lps22hb.LPS22HB_READ_P_T() # reads once before to remove false values
         str_T_in=f"{T_in:.1f}".replace('.',',')
         str_pressure=f"{pressure:.1f}".replace('.',',')
         # display for debug
+        print(f"T_in : {str_T_in}°C | pressure={str_pressure}hPa",end=' | ')
         
 
         # call to ina219 chip (for battery voltage and current)
