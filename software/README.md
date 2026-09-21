@@ -2,7 +2,7 @@
 
 The software is written in Micropython for a Raspberry pi pico
 
-balloon2026_x_y.py is the main file.
+balloon2026_1_0.py is the main file.
 The code needs 3 modules for the sensors :
 - ds18x20.py for the DS18B20 outdoors temperatutre sensor. This module is part of the MicroPython distribution.
 - ina219.py for the battery monitoring
@@ -12,3 +12,7 @@ Results are stored in a csv file : balloon_data.csv
 
 The power consumption of the module was measured and is on the order of 140 mWh for an hour. My 3.6V 14450 batteries have a capacity of 3Wh
 A file size estimate is 46 kb for an hour.
+
+balloon2026_1_1.py is the next main file. I uses another module for the lps22hb : lps22hb.py
+
+After testing the code with success, I asked Gemini AI to show me some weaknesses and to correct the code
