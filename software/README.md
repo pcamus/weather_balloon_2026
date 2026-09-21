@@ -17,4 +17,4 @@ balloon2026_1_1.py is the next main file. I uses another module for the lps22hb 
 
 After testing the code with success, I asked Gemini AI to show me some weaknesses and to correct the code
 
-The Ai corrected code is balloon2026_1_1_corAI.py and the corrections are explained in [Code_Review_Report_Balloon2026.pdf](Code_Review_Report_Balloon2026.pdf)
+The AI corrected code is balloon2026_1_1_corAI.py and the corrections are explained in [Code_Review_Report_Balloon2026.pdf](Code_Review_Report_Balloon2026.pdf)
