@@ -34,4 +34,4 @@ For the prototype I also use a [Quad GPIO Expander](https://www.waveshare.com/pi
 
 ## Software.
 
-The programming language is MicroPython.
+The programming language is MicroPython. See software folder.
