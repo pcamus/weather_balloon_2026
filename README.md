@@ -30,8 +30,14 @@ For the prototype I also use a [Quad GPIO Expander](https://www.waveshare.com/pi
 
 <img width="1133" height="753" alt="ballon_stack" src="https://github.com/user-attachments/assets/4efe90a2-ebe4-4de1-a8e3-3327e1a03192" />
 
-
+Th enclosure files can be found here.
 
 ## Software.
 
-The programming language is MicroPython. See software folder.
+The programming language is MicroPython. See [software folder](software/README.md).
+
+
+## Launch and flight.
+
+The balloon and its payload were launched on Sunday, September 27, 2026, at 2:13 PM. 
+Fior the details see here
