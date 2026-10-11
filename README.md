@@ -33,6 +33,7 @@ For the prototype I also use a [Quad GPIO Expander](https://www.waveshare.com/pi
 Th enclosure files can be found [here](enclosure/README.md)..
 
 <img width="1128" height="2344" alt="mod1" src="https://github.com/user-attachments/assets/25bda63b-fc3e-4bb7-b75d-f29e240e9c8d" />
+
 *View of the electronic modules inside their enclosure. Note the hot glue spots used to secure the cables connected to the outdoor temperature probe*  
 
 
