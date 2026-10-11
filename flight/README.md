@@ -30,3 +30,5 @@ The balloon was recovered by radio amateur ON7FM near the village of Roggel in t
 <img width="1587" height="835" alt="vols ballons IRM" src="https://github.com/user-attachments/assets/61f0fe94-82e5-4e16-9bc4-f34ea76c3ce3" />
 
 *Flight path (gray line)*
+
+We were able to follow the balloon flight thanks to [amateur.sondehub.org](https://amateur.sondehub.org/#!mt=Mapnik&mz=9&qm=31d&mc=51.2292,5.08887&f=ON7OT-11&q=ON7OT-11) and the radio amateurs listening to the radio beacon of the ballon and sending back data to amateur.sondehub.org.
