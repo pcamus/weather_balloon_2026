@@ -1,6 +1,6 @@
 # Launch and flight.
 
-The balloon and its payload were launched on Sunday, September 27, 2026, at 2:13 PM from IRM site in Uccle, Belgium.
+The balloon and its payload were launched on Sunday, September 27, 2026, at 2:13 PM from RMI site in Uccle, Belgium.
 
 This flight was proposed as part of the [RMI](https://www.meteo.be/en/about-rmi/introduction)'s 200th anniversary.
 
@@ -20,6 +20,12 @@ It contained the payload (90 g) with the outdoor sensor and the radio beacon pro
 
 <img width="2688" height="2112" alt="pod1" src="https://github.com/user-attachments/assets/4f2585d0-e8a0-428a-a485-d45f610aa2a6" />
 
+Starting in Uccle, Belgium, the balloon flew northeast towards the Netherlands.
+The balloon's ascent lasted 2h30 and its descent 1h10, making a total flight time of 3h40.
+The ascent speed varied between 3 and 5 m/s (approx. 11 to 18 km/h), with a slight acceleration as the air became less dense.
+The descent speed, following an initial dive at over 50 m/s (180 km/h), gradually decreased as the parachute encountered denser air layers, eventually stabilizing around 4 m/s (approx. 15 km/h) near the ground.
+
+The balloon was recovered by radio amateur ON7FM near the village of Roggel in the Netherlands.
 
 <img width="1587" height="835" alt="vols ballons IRM" src="https://github.com/user-attachments/assets/61f0fe94-82e5-4e16-9bc4-f34ea76c3ce3" />
 
