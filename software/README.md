@@ -24,6 +24,6 @@ The AI was in its turn corrected (wrong object name for lps22hb and useless prin
 Current stable version is [balloon2026_1_2.py](balloon2026_1_2.py). 
 
 The code was tested during a 6 hours run. Real file size was 154 kb.
-'
+ 
 After the flight, it appears that absolute pressure has to be used instead of relative pressure. 
 The code contains a pressure coefficient (CORR_PRESS = 1033 / 991) to convert from absolute to relative (to sea level) pressure which was removed  in the last update of the software. The balloon_data.csv contains relative pressure and was corrected (with the inverse coefficient) before conducting the data analysis.
