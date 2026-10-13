@@ -25,13 +25,14 @@ It contained the payload (90 g) with the outdoor sensor and the radio beacon pro
 The balloon is inflated at a pressure close to ground-level atmospheric pressure.
 To take off, Archimedes' buoyant force ($\rho_{\text{air}} \cdot V \cdot g$) must be greater than the weight of the balloon ($m \cdot g$).
 Where:
-$\rho_{\text{air}}$ is the air density
-$V$ is the volume of the balloon
-$m$ is the total mass (balloon + payload box + hydrogen inside the balloon)
-$g$ is the gravitational acceleration at ground level
+- $\rho_{\text{air}}$ is the air density
+- $V$ is the volume of the balloon
+- $m$ is the total mass (balloon + payload box + hydrogen inside the balloon)
+- $g$ is the gravitational acceleration at ground level
 
 <br>
 Starting in Uccle, Belgium, the balloon flew northeast towards the Netherlands.
+
 <br>
 The balloon's ascent lasted 2h30 and its descent 1h10, making a total flight time of 3h40.
 The ascent speed varied between 3 and 5 m/s (approx. 11 to 18 km/h), with a slight acceleration as the air became less dense.
