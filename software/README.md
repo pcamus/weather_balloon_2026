@@ -10,8 +10,8 @@ The code needs 3 modules for the sensors :
 
 Results are stored in a csv file : balloon_data.csv
 
-The power consumption of the module was measured and is on the order of 120 mW for an hour. My 3.7V 14450 batteries have a capacity of 2.96Wh.
-This provides a theoretical autonomy of 24h 40 min.
+The power consumption of the module was measured and is on the order of 120 mW for an hour. My 3.7V (type 14500) batteries has a capacity of 2.96Wh.
+This provides a theoretical autonomy of 24 h 40 min.
 
 
 A file size estimate is 46 kb for an hour.
