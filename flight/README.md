@@ -17,7 +17,7 @@ The payload box used is an expanded polystyrene cooler box.
 It contained the payload (90 g) with the outdoor sensor and the radio beacon provided by the radio amateurs, whose call sign was ON7OT-11 (80 g). The total weight was 250 g. 
 <div align="center">
 <img img style="width:35%; height:auto;" alt="pod2" src="https://github.com/user-attachments/assets/ffd7956d-70de-4ac2-a3d6-7ca97dc7c6cb" />
-<img img style="width:60%; height:auto;" alt="pod1" src="https://github.com/user-attachments/assets/4f2585d0-e8a0-428a-a485-d45f610aa2a6" />
+<img img style="width:62%; height:auto;" alt="pod1" src="https://github.com/user-attachments/assets/4f2585d0-e8a0-428a-a485-d45f610aa2a6" />
 </div>
 <br>
 <br>
