@@ -9,7 +9,7 @@ To maintain interest in the planned flight, however, we added other measurements
 
 So, in summary, our system will measure: the temperature inside and outside the payload box, atmospheric pressure, battery voltage, and the current supplied by the battery. Measurements will be taken every 5 seconds.
 
-The balloon's position over time should be provided by amateur radio operators who will track the balloon (using their own radio module, also carried onboard the payload box). They will also recover our system upon landing (conditions permitting) in order to retrieve the flight data stored in our module.
+The balloon's position over time was provided by amateur radio operators who also track the balloon (using their own radio module, carried onboard the payload box). They recovered our system upon landing (conditions permitting) ans so we were able to retrieve the flight data stored in our module.
 
 ## Hardware setup.
 
