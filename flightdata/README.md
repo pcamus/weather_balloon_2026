@@ -4,8 +4,9 @@
 >[!Note]
 >Before performing the data analysis, the relative pressures expressed in the acquisition file were replaced with the absolute pressures as provided by the LPS22HB acquisition circuit (by multiplying them by the inverse of the coefficient used in the initial version of the program). The program `balloon2026_1_2.py` has also been corrected and no longer contains the correction coefficient. <br><br>Subsequently, the acquisition file `balloon_data.csv` was resampled from a 5-second acquisition period to 30 seconds in order to match the files provided by the amateur radio program.
 
-Here is the English translation of the text:
-
+>[!Warning]
+>As my locale is French, ce decimal separator is comma `,'.
+>
 The flight began at 2:13 PM local time (Brussels) and ended at 5:53 PM, for a total duration of 3 hours and 20 minutes.
 
 ## Altitude and vertical speed.
