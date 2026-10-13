@@ -30,12 +30,10 @@ import os
 # General parameters
 # -----------------------------------------------------------------------------
 PERIOD = 5000         # sampling rate (in ms)
-DURATION = 21600   # 21600 = 6 hour - total acquisition time (in seconds)
+DURATION = 28800   # 28800 = 8 hours - total acquisition time (in seconds)
 FILENAME = "balloon_data.csv"
-CORR_PRESS = 1033/991  # calibration with IRM data
 
 SAMPLES = DURATION // (PERIOD//1000)
-print (SAMPLES)
 
 # -----------------------------------------------------------------------------
 # Heart beat and status LED
@@ -118,7 +116,7 @@ while count < SAMPLES:
 
     # call to LPS22HB chip (for inside temperature and pressure)
     try:
-        pressure = lps22hb.pressure * CORR_PRESS
+        pressure = lps22hb.pressure
         T_in = lps22hb.temperature
         str_T_in = f"{T_in:.1f}".replace('.', ',')
         str_pressure = f"{pressure:.1f}".replace('.', ',')
