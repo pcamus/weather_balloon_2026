@@ -41,7 +41,7 @@ For the prototype I also use a [Quad GPIO Expander](https://www.waveshare.com/pi
 </div>
  
 The enclosure files can be found [here](enclosure/README.md). 
- 
+<br> 
 
 ## Software.
 
