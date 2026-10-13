@@ -2,7 +2,7 @@
 # Flight data analysis.
 
 >[!Note]
->Before performing the data analysis, the relative pressures expressed in the acquisition file were replaced with the absolute pressures as provided by the LPS22HB acquisition circuit (by multiplying them by the inverse of the coefficient used in the initial version of the program). The program balloon2026_1_2.py has also been corrected and no longer contains the correction coefficient. <br>Subsequently, the acquisition file balloon_data.csv was resampled from a 5-second acquisition period to 30 seconds in order to match the files provided by the amateur radio program.
+>Before performing the data analysis, the relative pressures expressed in the acquisition file were replaced with the absolute pressures as provided by the LPS22HB acquisition circuit (by multiplying them by the inverse of the coefficient used in the initial version of the program). The program balloon2026_1_2.py has also been corrected and no longer contains the correction coefficient. <br><br>Subsequently, the acquisition file balloon_data.csv was resampled from a 5-second acquisition period to 30 seconds in order to match the files provided by the amateur radio program.
 ## Altitude and vertical speed.
 
 Those data were extracted from the radio amateur flight files in [amateur.sondehub.org](https://amateur.sondehub.org/#!mt=Mapnik&mz=9&qm=31d&mc=51.2292,5.08887&f=ON7OT-11&q=ON7OT-11). 
