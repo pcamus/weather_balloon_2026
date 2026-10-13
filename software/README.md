@@ -10,7 +10,8 @@ The code needs 3 modules for the sensors :
 
 Results are stored in a csv file : balloon_data.csv
 
-The power consumption of the module was measured and is on the order of 140 mWh for an hour. My 3.6V 14450 batteries have a capacity of 3Wh
+The power consumption of the module was measured and is on the order of 140 mWh for an hour. My 3.6V 14450 batteries have a capacity of 3Wh. 
+
 A file size estimate is 46 kb for an hour.
 
 balloon2026_1_1.py is the next main file. I uses another module for the lps22hb : lps22hb.py
@@ -23,3 +24,6 @@ The AI was in its turn corrected (wrong object name for lps22hb and useless prin
 Current stable version is [balloon2026_1_2.py](balloon2026_1_2.py). 
 
 The code was tested during a 6 hours run. Real file size was 154 kb.
+'
+After the flight, it appears that absolute pressure has to be used instead of relative pressure. 
+The code contains a pressure coefficient (CORR_PRESS = 1033 / 991) to convert from absolute to relative (to sea level) pressure which was removed  in the last update of the software. The balloon_data.csv contains relative pressure and was corrected (with the inverse coefficient) before conducting the data analysis.
