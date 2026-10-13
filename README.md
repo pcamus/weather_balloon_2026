@@ -30,9 +30,9 @@ For the prototype I also use a [Quad GPIO Expander](https://www.waveshare.com/pi
 
 <div align="center">
 <img style="width:50%; height:auto;" alt="ballon_stack" src="https://github.com/user-attachments/assets/4efe90a2-ebe4-4de1-a8e3-3327e1a03192" />
+</div>
 
-
-
+<div align="center">
 <img style="width:40%; height:auto;" alt="mod1" src="https://github.com/user-attachments/assets/25bda63b-fc3e-4bb7-b75d-f29e240e9c8d" />
 
 *View of the electronic modules inside their enclosure. Note the hot glue spots used to secure the cables connected to the outdoor temperature probe*  
