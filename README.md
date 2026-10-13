@@ -28,7 +28,7 @@ For the prototype I also use a [Quad GPIO Expander](https://www.waveshare.com/pi
 
 *The stacked version (wheight = 50 g, DS18B20 sensor not shown) looks like that:*
 
-<img width="615" height="370" alt="ballon_stack" src="https://github.com/user-attachments/assets/4efe90a2-ebe4-4de1-a8e3-3327e1a03192" />
+<img style="width:50%; height:auto;" alt="ballon_stack" src="https://github.com/user-attachments/assets/4efe90a2-ebe4-4de1-a8e3-3327e1a03192" />
 
 
 
