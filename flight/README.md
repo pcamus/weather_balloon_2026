@@ -31,12 +31,16 @@ Where:
 - $g$ is the gravitational acceleration at ground level
 
 <br>
+
 Starting in Uccle, Belgium, the balloon flew northeast towards the Netherlands.
 
 <br>
+
 The balloon's ascent lasted 2h30 and its descent 1h10, making a total flight time of 3h40.
 The ascent speed varied between 3 and 5 m/s (approx. 11 to 18 km/h), with a slight acceleration as the air became less dense.
 The descent speed, following an initial dive at over 50 m/s (180 km/h), gradually decreased as the parachute encountered denser air layers, eventually stabilizing around 4 m/s (approx. 15 km/h) near the ground.
+
+<br>
 
 The balloon was recovered by radio amateur ON7FM near the village of Roggel in the Netherlands.
 
