@@ -41,12 +41,14 @@ For the prototype I also use a [Quad GPIO Expander](https://www.waveshare.com/pi
 </div>
  
 The enclosure files can be found [here](enclosure/README.md). 
+<br>
 <br> 
 
 ## Software.
 
 The programming language is MicroPython. See [software folder](software/README.md).
-
+<br>
+<br> 
 
 ## Launch and flight.
 
