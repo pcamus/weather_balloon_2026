@@ -24,7 +24,7 @@ In this version, we will not be using the accelerometer.
 
 Care must also be taken as the Waveshare 10-DOF IMU board comes in several versions with different, non-compatible chips. The version used here is Version 2.1.
 
-For the prototype I also use a [Quad GPIO Expander](https://www.waveshare.com/pico-quad-expander.htm) from Waveshare
+For the beta prototype I use a [Quad GPIO Expander](https://www.waveshare.com/pico-quad-expander.htm) from Waveshare
 <br>
 <br>
 <br>
