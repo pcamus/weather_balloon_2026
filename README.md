@@ -26,15 +26,15 @@ Care must also be taken as the Waveshare 10-DOF IMU board comes in several versi
 
 For the prototype I also use a [Quad GPIO Expander](https://www.waveshare.com/pico-quad-expander.htm) from Waveshare
 
-*The stacked version (wheight = 50 g, DS18B20 sensor not shown) looks like that:*
+
 
 <div align="center">
-<img style="width:50%; height:auto;" alt="ballon_stack" src="https://github.com/user-attachments/assets/4efe90a2-ebe4-4de1-a8e3-3327e1a03192" />
+<img style="width:45%; height:auto;" alt="ballon_stack" src="https://github.com/user-attachments/assets/4efe90a2-ebe4-4de1-a8e3-3327e1a03192" />
+*The stacked version (wheight = 50 g, DS18B20 sensor not shown) looks like that:* 
 </div>
 
 <div align="center">
-<img style="width:40%; height:auto;" alt="mod1" src="https://github.com/user-attachments/assets/25bda63b-fc3e-4bb7-b75d-f29e240e9c8d" />
-
+<img style="width:30%; height:auto;" alt="mod1" src="https://github.com/user-attachments/assets/25bda63b-fc3e-4bb7-b75d-f29e240e9c8d" />
 *View of the electronic modules inside their enclosure. Note the hot glue spots used to secure the cables connected to the outdoor temperature probe*  
 </div>
  
