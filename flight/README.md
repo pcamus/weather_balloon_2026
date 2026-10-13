@@ -23,9 +23,10 @@ It contained the payload (90 g) with the outdoor sensor and the radio beacon pro
 <br>
 
 The balloon is inflated at a pressure close to ground-level atmospheric pressure.
-To take off, Archimedes' buoyant force ($\rho_{\text{air}} \cdot V \cdot g$) must be greater than the weight of the balloon ($m \cdot g$).
+To take off, Archimedes' buoyant force ($\rho_{\text{air}} \cdot V \cdot g$) must be greater than the weight of the balloon ($m \cdot g$).  
+
 Where:
-- $\rho_{\text{air}}$ is the air density
+- $\rho_{\text{air}}$ is the air density at ground level
 - $V$ is the volume of the balloon
 - $m$ is the total mass (balloon + payload box + hydrogen inside the balloon)
 - $g$ is the gravitational acceleration at ground level
