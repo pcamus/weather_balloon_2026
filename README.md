@@ -25,13 +25,11 @@ In this version, we will not be using the accelerometer.
 Care must also be taken as the Waveshare 10-DOF IMU board comes in several versions with different, non-compatible chips. The version used here is Version 2.1.
 
 For the prototype I also use a [Quad GPIO Expander](https://www.waveshare.com/pico-quad-expander.htm) from Waveshare
-
-
-
+<br>
 <div align="center">
 <img style="width:45%; height:auto;" alt="ballon_stack" src="https://github.com/user-attachments/assets/4efe90a2-ebe4-4de1-a8e3-3327e1a03192" />
  
-*The stacked version (wheight = 50 g, DS18B20 sensor not shown) looks like that:* 
+*The stacked modules (wheight = 50 g, DS18B20 sensor not shown)* 
 </div>
 
 <div align="center">
