@@ -2,9 +2,10 @@
 
 It's just a box with a lid and some opening to watch heartbeat LED and access power on switch.
 
-<img width="971" height="935" alt="wb3dview" src="https://github.com/user-attachments/assets/ec9c4276-e055-4728-9bc7-b812c958e952" />
+<img img style="width:80%; height:auto;" alt="wb3dview" src="https://github.com/user-attachments/assets/ec9c4276-e055-4728-9bc7-b812c958e952" />
 
 Made of PLA, on an Anycubic Kobra Neo : 0.1 mm layer hight, 195°C, tree support for the lid. I used orcaslicer to slice the stl files.
+<br>
+<br> 
 
-
- <img width="1620" height="1308" alt="mod2" src="https://github.com/user-attachments/assets/fcaa0404-df4c-4355-a63e-8f91fcf3ed34" />
+ <img img style="width:80%; height:auto;" alt="mod2" src="https://github.com/user-attachments/assets/fcaa0404-df4c-4355-a63e-8f91fcf3ed34" />
