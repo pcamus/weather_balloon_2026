@@ -4,21 +4,21 @@ The balloon and its payload were launched on Sunday, September 27, 2026, at 2:13
 
 This flight was proposed as part of the [RMI](https://www.meteo.be/en/about-rmi/introduction)'s 200th anniversary.
 
-<img width="1536" height="2048" alt="irm01" src="https://github.com/user-attachments/assets/18919bbe-9288-4472-904f-dffb951adbe1" />
+<img img style="width:90%; height:auto;" alt="irm01" src="https://github.com/user-attachments/assets/18919bbe-9288-4472-904f-dffb951adbe1" />
 
 *The RMI launch pad (photo RMI)*
 
 The balloon is inflated with hydrogen and is attached to the parachute (in red), which is then connected to the payload box.
-<img width="1200" height="1600" alt="irm02" src="https://github.com/user-attachments/assets/567d727c-55d3-44c8-b266-48a053c8eda2" />
+<imgimg style="width:70%; height:auto;" alt="irm02" src="https://github.com/user-attachments/assets/567d727c-55d3-44c8-b266-48a053c8eda2" />
 
 
 The payload box used is an expanded polystyrene cooler box.
 
 It contained the payload (90 g) with the outdoor sensor and the radio beacon provided by the radio amateurs, whose call sign was ON7OT-11 (80 g). The total weight was 250 g. 
 
-<img width="1364" height="1881" alt="pod2" src="https://github.com/user-attachments/assets/ffd7956d-70de-4ac2-a3d6-7ca97dc7c6cb" />
+<img img style="width:50%; height:auto;" alt="pod2" src="https://github.com/user-attachments/assets/ffd7956d-70de-4ac2-a3d6-7ca97dc7c6cb" />
 
-<img width="2688" height="2112" alt="pod1" src="https://github.com/user-attachments/assets/4f2585d0-e8a0-428a-a485-d45f610aa2a6" />
+<img img style="width:50%; height:auto;" alt="pod1" src="https://github.com/user-attachments/assets/4f2585d0-e8a0-428a-a485-d45f610aa2a6" />
 
 Starting in Uccle, Belgium, the balloon flew northeast towards the Netherlands.
 The balloon's ascent lasted 2h30 and its descent 1h10, making a total flight time of 3h40.
@@ -27,7 +27,7 @@ The descent speed, following an initial dive at over 50 m/s (180 km/h), graduall
 
 The balloon was recovered by radio amateur ON7FM near the village of Roggel in the Netherlands.
 
-<img width="1587" height="835" alt="vols ballons IRM" src="https://github.com/user-attachments/assets/61f0fe94-82e5-4e16-9bc4-f34ea76c3ce3" />
+<img img style="width:100%; height:auto;" alt="vols ballons IRM" src="https://github.com/user-attachments/assets/61f0fe94-82e5-4e16-9bc4-f34ea76c3ce3" />
 
 *Flight path (gray line)*
 
