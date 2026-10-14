@@ -82,7 +82,7 @@ To perform the theoretical calculation, we assume terminal velocity by setting t
 <table>
   <tr>
     <td width="30%">
-     <img width="2000" height="1200" alt="temperature_vs_altitude" src="https://github.com/user-attachments/assets/7b2dd72c-ee3f-4d6b-a545-e0b57037fb9b" />
+     <img width="1000" height="600" alt="temperature_vs_altitude" src="https://github.com/user-attachments/assets/7b2dd72c-ee3f-4d6b-a545-e0b57037fb9b" />
 
     </td>
     <td>
