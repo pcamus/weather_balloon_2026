@@ -79,14 +79,9 @@ To perform the theoretical calculation, we assume terminal velocity by setting t
 
 ## Temperature profile of atmosphere.
 
-<table>
-  <tr>
-    <td width="30%">
-     <img width="1000" height="600" alt="temperature_vs_altitude" src="https://github.com/user-attachments/assets/7b2dd72c-ee3f-4d6b-a545-e0b57037fb9b" />
+<img width="1000" height="600" alt="temperature_vs_altitude" src="https://github.com/user-attachments/assets/7b2dd72c-ee3f-4d6b-a545-e0b57037fb9b" />
 
-    </td>
-    <td>
-     Here is the temperature profile of the International Standard Atmosphere (ISA) between 0 and 40 km.
+Here is the temperature profile of the International Standard Atmosphere (ISA) between 0 and 40 km.
 
 - 0 to 11 km (troposphere): the temperature decreases by about 6.5 °C per km, from 15 °C at ground level to −56.5 °C at the tropopause.
 - 11 to 20 km: the temperature remains constant at −56.5 °C (isothermal layer, lower stratosphere).
@@ -94,9 +89,8 @@ To perform the theoretical calculation, we assume terminal velocity by setting t
 - 32 to 40 km: the warming accelerates, at about 2.8 °C per km, reaching −22 °C at 40 km. This is due to the absorption of UV radiation by the ozone layer.
 
 This is a conventional average profile. The actual temperature varies with latitude and season. 
-    </td>
-  </tr>
-</table>
+
+
 ## Measured inside & outside payload temperature vs altitude.
 
 <img width="1272" height="849" alt="temp_up" src="https://github.com/user-attachments/assets/43995b71-691b-43db-8957-cc9ad6c17ea9" />
