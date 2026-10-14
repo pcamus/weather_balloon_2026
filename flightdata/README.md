@@ -26,6 +26,10 @@ The flight began at 2:13 PM local time (Brussels) and ended at 5:53 PM, for a to
 - **Weight** (of the balloon and payload): $W = (m_{\text{balloon}} + m_{\text{payload}}) \cdot g$
 - **Drag force**: $D = \frac{1}{2} \cdot C_x \cdot \rho_{\text{air}} \cdot S \cdot v^2$
   </p>
+  <p>Due to Newton's second law: $m \cdot a = m \cdot \frac{dv}{dt} = \sum \vec{F}_i$
+    and taking into account the signs of the forces, this leads to:$$m \cdot \frac{dv}{dt} = \rho_{\text{air}} \cdot V_{\text{balloon}} \cdot g - (m_{\text{balloon}} + m_{\text{payload}}) \cdot g - \frac{1}{2} \cdot C_x \cdot \rho_{\text{air}} \cdot S \cdot v^2$$
+  </p>
+  
     </td>
   </tr>
 </table>
