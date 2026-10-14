@@ -63,8 +63,7 @@ The flight began at 2:13 PM local time (Brussels) and ended at 5:53 PM, for a to
   </tr>
 </table>
 
-## Altitude and vertical speed.
-
+## Measured altitude and vertical speed.
 
 The data were extracted from the radio amateur flight files in [amateur.sondehub.org](https://amateur.sondehub.org/#!mt=Mapnik&mz=9&qm=31d&mc=51.2292,5.08887&f=ON7OT-11&q=ON7OT-11). 
 
@@ -78,7 +77,27 @@ To perform the theoretical calculation, we assume terminal velocity by setting t
 </p>
 <br>
 
-## Inside & outside payload temperature vs altitude.
+## Temperature profile of atmosphere.
+
+<table>
+  <tr>
+    <td width="30%">
+     <img width="2000" height="1200" alt="temperature_vs_altitude" src="https://github.com/user-attachments/assets/7b2dd72c-ee3f-4d6b-a545-e0b57037fb9b" />
+
+    </td>
+    <td>
+     Here is the temperature profile of the International Standard Atmosphere (ISA) between 0 and 40 km.
+
+- 0 to 11 km (troposphere): the temperature decreases by about 6.5 °C per km, from 15 °C at ground level to −56.5 °C at the tropopause.
+- 11 to 20 km: the temperature remains constant at −56.5 °C (isothermal layer, lower stratosphere).
+- 20 to 32 km: it rises by about 1 °C per km.
+- 32 to 40 km: the warming accelerates, at about 2.8 °C per km, reaching −22 °C at 40 km. This is due to the absorption of UV radiation by the ozone layer.
+
+This is a conventional average profile. The actual temperature varies with latitude and season. 
+    </td>
+  </tr>
+</table>
+## Measured inside & outside payload temperature vs altitude.
 
 <img width="1272" height="849" alt="temp_up" src="https://github.com/user-attachments/assets/43995b71-691b-43db-8957-cc9ad6c17ea9" />
 
