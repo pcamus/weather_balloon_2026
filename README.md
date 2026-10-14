@@ -54,3 +54,9 @@ The programming language is MicroPython. See [software folder](software/README.m
 
 The balloon and its payload were launched on Sunday, September 27, 2026, at 2:13 PM from IRM site in Uccle, Belgium. 
 For the details [see here](flight/README.md).
+<br>
+<br> 
+
+## Data analysis.
+
+The probe was recovered on September 27 at 5:53 PM by radio amateur ON7FM. The data analysis can be found [here](flightdata/README.md).
