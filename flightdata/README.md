@@ -19,8 +19,11 @@ The flight began at 2:13 PM local time (Brussels) and ended at 5:53 PM, for a to
     </td>
     <td>
       <h3>Titre de la section</h3>
-      <p>Voici votre texte qui s'affiche proprement à droite de l'image.</p>
-      <p>Vous pouvez ajouter autant de paragraphes ou de texte que vous le souhaitez !</p>
+      <p>Equation of motion for the balloon's ascent.</p>
+      <p>Three forces are at play:
+-**Weight** (of the balloon and payload): $W = (m_{\text{balloon}} + m_{\text{payload}}) \cdot g$
+-**Buoyancy** (Archimedes' force): $B = \rho_{\text{air}} \cdot V_{\text{balloon}} \cdot g$
+-**Drag force**: $D = \frac{1}{2} \cdot C_x \cdot \rho_{\text{air}} \cdot S \cdot v^2$</p>
     </td>
   </tr>
 </table>
