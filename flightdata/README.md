@@ -103,6 +103,8 @@ This is a conventional average profile. The actual temperature varies with latit
  If we take outside temperature difference from 10000 m to 3000 m in the downward trajectory we get : 44°C which results in a 6.3 °C variation per km.
  The minimum temperature is -47°C at 14500 m.
 
+The differences between the theoretical curve and the measurements are partly due to the temperature sensor heating up from solar radiation and therefore reading a higher temperature than the actual ambient air.
+
 ## Pressure data and altitude estimate.
 
 <img width="1249" height="828" alt="alt and pressure" src="https://github.com/user-attachments/assets/11ba9802-2c78-4f8a-9538-6f2cb102b5de" />
