@@ -9,8 +9,9 @@ This flight was proposed as part of the [RMI](https://www.meteo.be/en/about-rmi/
 *The RMI launch pad (photo RMI)*
 
 The balloon is inflated with hydrogen and is attached to the parachute (in red), which is then connected to the payload box.
-<img style="width:70%; height:auto;" alt="irm02" src="https://github.com/user-attachments/assets/567d727c-55d3-44c8-b266-48a053c8eda2" />
-
+<div align="center">
+<img style="width:60%; height:auto;" alt="irm02" src="https://github.com/user-attachments/assets/567d727c-55d3-44c8-b266-48a053c8eda2" />
+</div>
 
 The payload box used is an expanded polystyrene cooler box.
 
