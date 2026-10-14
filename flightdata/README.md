@@ -11,7 +11,7 @@ The file with all data and graphics `balloon2026_data_final.xlsx` was created us
 >
 The flight began at 2:13 PM local time (Brussels) and ended at 5:53 PM, for a total duration of 3 hours and 20 minutes.
 
-
+## Equations of motion.
 <table>
   <tr>
     <td width="30%">
@@ -38,9 +38,33 @@ The flight began at 2:13 PM local time (Brussels) and ended at 5:53 PM, for a to
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td width="30%">
+      <img width="423" height="563" alt="down_fig" src="https://github.com/user-attachments/assets/0ef28b12-4326-4858-bbee-03b73f8cd3eb" /> 
+    </td>
+    <td>
+      <h3>Equation of motion for the balloon's ascent.</h3>
+      <p></p>
+      <p>Three forces are at play:      
+        
+- **Weight** (of the balloon and payload): $W = (m_{\text{balloon}} + m_{\text{payload}}) \cdot g$
+- **Drag force**: $D = \frac{1}{2} \cdot C_x \cdot \rho_{\text{air}} \cdot S \cdot v^2$
+  </p>
+  <p>Due to Newton's second law: $m \cdot a = m \cdot \frac{dv}{dt} = \sum \vec{F}_i$
+    and taking into account the signs of the forces, this leads to:</p>
+    <p>   
+      $$m \cdot \frac{dv}{dt} = - (m_{\text{balloon}} + m_{\text{payload}}) \cdot g - \frac{1}{2} \cdot C_x \cdot \rho_{\text{air}} \cdot S \cdot v^2$$
+    </p>
+  </p>
+  <p> $S$ is the cross section of the ballon, $v$ the ascent velocity and $C_x$ the aerodynamic coefficient</p>
+  <p>Velocity is positive upwards.</p>
+    </td>
+  </tr>
+</table>
 
 ## Altitude and vertical speed.
-<img width="423" height="563" alt="down_fig" src="https://github.com/user-attachments/assets/0ef28b12-4326-4858-bbee-03b73f8cd3eb" />
+
 
 The data were extracted from the radio amateur flight files in [amateur.sondehub.org](https://amateur.sondehub.org/#!mt=Mapnik&mz=9&qm=31d&mc=51.2292,5.08887&f=ON7OT-11&q=ON7OT-11). 
 
