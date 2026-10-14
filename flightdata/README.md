@@ -95,12 +95,12 @@ This is a conventional average profile. The actual temperature varies with latit
 
 <img width="1272" height="849" alt="temp_up" src="https://github.com/user-attachments/assets/43995b71-691b-43db-8957-cc9ad6c17ea9" />
 
- If we take temperature difference from 5000m to 10000m in the upward trajectory we get : 28°C which results in a 5.6 °C variation per km
+ If we take outside temperature difference from 5000m to 10000m in the upward trajectory we get : 28°C which results in a 5.6 °C variation per km
  The minimum temperature is -31°C at 14000 m.
 
 <img width="1153" height="862" alt="temp_down" src="https://github.com/user-attachments/assets/d9f16cf7-08b0-4bcb-8496-fa9cd98d29bc" />
 
- If we take temperature difference from 10000 m to 3000 m in the downward trajectory we get : 44°C which results in a 6.3 °C variation per km.
+ If we take outside temperature difference from 10000 m to 3000 m in the downward trajectory we get : 44°C which results in a 6.3 °C variation per km.
  The minimum temperature is -47°C at 14500 m.
 
 ## Pressure data and altitude estimate.
