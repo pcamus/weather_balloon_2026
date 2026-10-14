@@ -11,12 +11,23 @@ The file with all data and graphics `balloon2026_data_final.xlsx` was created us
 >
 The flight began at 2:13 PM local time (Brussels) and ended at 5:53 PM, for a total duration of 3 hours and 20 minutes.
 
-## Altitude and vertical speed.
 
-<div align="center">
-<img width="428" height="563" alt="up_fig" src="https://github.com/user-attachments/assets/52fd6122-1847-44b4-b27b-01beb1f55407" /> 
+<table>
+  <tr>
+    <td width="30%">
+      <img width="428" height="563" alt="up_fig" src="https://github.com/user-attachments/assets/52fd6122-1847-44b4-b27b-01beb1f55407" /> 
+    </td>
+    <td>
+      <h3>Titre de la section</h3>
+      <p>Voici votre texte qui s'affiche proprement à droite de l'image.</p>
+      <p>Vous pouvez ajouter autant de paragraphes ou de texte que vous le souhaitez !</p>
+    </td>
+  </tr>
+</table>
+
+
+## Altitude and vertical speed.
 <img width="423" height="563" alt="down_fig" src="https://github.com/user-attachments/assets/0ef28b12-4326-4858-bbee-03b73f8cd3eb" />
-</div>
 
 The data were extracted from the radio amateur flight files in [amateur.sondehub.org](https://amateur.sondehub.org/#!mt=Mapnik&mz=9&qm=31d&mc=51.2292,5.08887&f=ON7OT-11&q=ON7OT-11). 
 
