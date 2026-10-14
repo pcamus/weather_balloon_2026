@@ -18,12 +18,12 @@ The flight began at 2:13 PM local time (Brussels) and ended at 5:53 PM, for a to
       <img width="428" height="563" alt="up_fig" src="https://github.com/user-attachments/assets/52fd6122-1847-44b4-b27b-01beb1f55407" /> 
     </td>
     <td>
-      <h3>Titre de la section</h3>
-      <p>Equation of motion for the balloon's ascent.</p>
+      <h3>Equation of motion for the balloon's ascent.</h3>
+      <p></p>
       <p>Three forces are at play:
--**Weight** (of the balloon and payload): $W = (m_{\text{balloon}} + m_{\text{payload}}) \cdot g$
--**Buoyancy** (Archimedes' force): $B = \rho_{\text{air}} \cdot V_{\text{balloon}} \cdot g$
--**Drag force**: $D = \frac{1}{2} \cdot C_x \cdot \rho_{\text{air}} \cdot S \cdot v^2$</p>
+- **Weight** (of the balloon and payload): $W = (m_{\text{balloon}} + m_{\text{payload}}) \cdot g$
+- **Buoyancy** (Archimedes' force): $B = \rho_{\text{air}} \cdot V_{\text{balloon}} \cdot g$
+- **Drag force**: $D = \frac{1}{2} \cdot C_x \cdot \rho_{\text{air}} \cdot S \cdot v^2$</p>
     </td>
   </tr>
 </table>
