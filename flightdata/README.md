@@ -44,7 +44,7 @@ The flight began at 2:13 PM local time (Brussels) and ended at 5:53 PM, for a to
       <img width="423" height="563" alt="down_fig" src="https://github.com/user-attachments/assets/0ef28b12-4326-4858-bbee-03b73f8cd3eb" /> 
     </td>
     <td>
-      <h3>Equation of motion for the balloon's ascent.</h3>
+      <h3>Equation of motion for the balloon's descent</h3>
       <p></p>
       <p>Three forces are at play:      
         
