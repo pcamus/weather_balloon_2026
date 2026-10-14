@@ -111,7 +111,8 @@ If we look at the temperature curve inside the payload (red dotted line), its sh
 
 ## Pressure data and altitude estimate.
 
-<img width="1249" height="828" alt="alt and pressure" src="https://github.com/user-attachments/assets/11ba9802-2c78-4f8a-9538-6f2cb102b5de" />
+<img width="1249" height="828" alt="alt and pressure" src="https://github.com/user-attachments/assets/0ad2ad3a-28a8-4b6b-bee2-3ee77ea6443b" />
+
 
 
 ## Battery behavior.
