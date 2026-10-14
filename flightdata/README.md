@@ -13,7 +13,12 @@ The flight began at 2:13 PM local time (Brussels) and ended at 5:53 PM, for a to
 
 ## Altitude and vertical speed.
 
-Those data were extracted from the radio amateur flight files in [amateur.sondehub.org](https://amateur.sondehub.org/#!mt=Mapnik&mz=9&qm=31d&mc=51.2292,5.08887&f=ON7OT-11&q=ON7OT-11). 
+<div align="center">
+<img width="498" height="586" alt="up_fig" src="https://github.com/user-attachments/assets/c0c2e9b3-4255-4c45-84b2-c3d013e3fa5e" />
+<img width="423" height="563" alt="down_fig" src="https://github.com/user-attachments/assets/68cc086b-a095-45fa-8658-13796b623115" />
+</div>div>
+
+The data were extracted from the radio amateur flight files in [amateur.sondehub.org](https://amateur.sondehub.org/#!mt=Mapnik&mz=9&qm=31d&mc=51.2292,5.08887&f=ON7OT-11&q=ON7OT-11). 
 
 <img width="1248" height="869" alt="alt and speed" src="https://github.com/user-attachments/assets/785816a6-6815-4b17-aff1-142ae8ba92b2" />
 
