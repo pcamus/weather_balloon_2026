@@ -103,7 +103,11 @@ This is a conventional average profile. The actual temperature varies with latit
  If we take outside temperature difference from 10000 m to 3000 m in the downward trajectory we get : 44°C which results in a 6.3 °C variation per km.
  The minimum temperature is -47°C at 14500 m.
 
-The differences between the theoretical curve and the measurements are partly due to the temperature sensor heating up from solar radiation and therefore reading a higher temperature than the actual ambient air.
+The differences between the theoretical curve and the measurements (the absence of isothermal plateau) are partly due to the temperature sensor heating up from solar radiation and therefore reading a higher temperature than the actual ambient air.
+
+If we look at the temperature curve inside the payload (red dotted line), its shape is closer to what is expected, with an offset relative to altitude due to the insulating effect of the expanded polystyrene housing.
+
+<br>
 
 ## Pressure data and altitude estimate.
 
