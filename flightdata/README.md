@@ -104,7 +104,7 @@ This is a conventional average profile. The actual temperature varies with latit
  The minimum temperature is -47°C at 14500 m.
 
 >[!Note]
->The differences between the theoretical curve and the measurements (the absence of isothermal plateau) are partly due to the temperature sensor heating up from solar radiation and therefore reading a higher temperature than the actual ambient air.<br><br>The early temperature readings are skewed. While the reference temperature recorded at Uccle on September 27, 2026, at 2:00 PM was 22°C, the external sensor reported 31.5°C. This discrepancy occurred because the payload container was stored in a warm environment before launch; due to its high thermal inertia, the sensor failed to cool down to the ambient air temperature before lift-off.
+>The differences between the theoretical curve and the measurements (the absence of isothermal plateau) are partly due to the temperature sensor heating up from solar radiation and therefore reading a higher temperature than the actual ambient air.<br><br>Another problem is the fact that the early temperature readings are skewed. While the reference temperature recorded at Uccle on September 27, 2026, at 2:00 PM was 22°C, the external sensor reported 31.5°C. This discrepancy occurred because the payload container was stored in a warm environment before launch; due to its high thermal inertia, the sensor failed to cool down to the ambient air temperature before lift-off.
 
 If we look at the temperature curve inside the payload (red dotted line), its shape is closer to what is expected, with an offset relative to altitude due to the insulating effect of the expanded polystyrene housing.
 
