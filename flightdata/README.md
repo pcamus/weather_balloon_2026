@@ -122,7 +122,7 @@ The blue curve represents the values measured by the lps22hb pressure sensor. Th
 
 $alt= alt_{ref}+29.271 \cdot T_{abs} \cdot ln({\frac{p_{ref}}{p}})$
 
-$alt= alt_{ref}+153.846 \cdot T_{abs} \cdot {[1-{\frac{p}{p_{ref}}}]}$
+$alt= alt_{ref}+153.846 \cdot T_{abs} \cdot {[1-{\frac{p}{p_{ref}}}]}^2$
 
 
 
