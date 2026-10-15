@@ -114,7 +114,13 @@ If we look at the temperature curve inside the payload (red dotted line), its sh
 
 <img width="1249" height="828" alt="alt and pressure" src="https://github.com/user-attachments/assets/0ad2ad3a-28a8-4b6b-bee2-3ee77ea6443b" />
 
+The blue curve represents the values measured by the lps22hb pressure sensor. The dashed curves correspond to 3 physical models of the relationship between pressure and altitude :
 
+1. Thermodynamic formula (ideal gas law) using only the ground-level temperature.
+2. Thermodynamic formula (ideal gas law) accounting for the temperature at each measurement point.
+3. Barometric altitude (used in aviation).
+
+alt= alt_{ref}+29.271 T_{"abs"} ln( {p_{ref}} over {p}) 
 
 ## Battery behavior.
 
