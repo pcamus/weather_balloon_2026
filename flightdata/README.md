@@ -138,4 +138,6 @@ Références :
 
 <img width="1258" height="844" alt="battery" src="https://github.com/user-attachments/assets/85d097f4-ddbf-4736-8620-8b151fe9953a" />
 
+The measured current is not plotted because it fluctuates very little (mean = 24.2 mA with a standard deviation of 0.8 mA).
 
+We observe that when the battery remains at a temperature above 10°C, the discharge (modeled by the voltage) is linear. Afterwards, the battery appears to discharge more rapidly, following the temperature curve. However, when the temperature rises again, the battery "catches up" to the capacity expected from a linear discharge.
