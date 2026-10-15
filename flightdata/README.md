@@ -128,8 +128,8 @@ Formula 3.<br>
 $alt= alt_{ref}+153.846 \cdot T_{abs} \cdot {[1-{\frac{p}{p_{ref}}}]}^{0.190263}$
 
 Références : 
-- [thermodynamic formule](https://en.wikipedia.org/wiki/Hypsometric_equation)
-- [Barometric altitude](https://en.wikipedia.org/wiki/Barometric_formula)
+- [thermodynamic formula](https://en.wikipedia.org/wiki/Hypsometric_equation)
+- [Barometric altitude formula](https://en.wikipedia.org/wiki/Barometric_formula)
 - [Barometric formula and aviation](https://www.tarmacview.com/glossary/barometric-altitude/)
 
 <br>
