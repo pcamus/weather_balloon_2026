@@ -112,7 +112,8 @@ If we look at the temperature curve inside the payload (red dotted line), its sh
 
 ## Pressure data and altitude estimate.
 
-<img width="1249" height="828" alt="alt and pressure" src="https://github.com/user-attachments/assets/0ad2ad3a-28a8-4b6b-bee2-3ee77ea6443b" />
+<img width="1249" height="828" alt="alt and pressure" src="https://github.com/user-attachments/assets/94ecbd2f-d160-43fd-aae0-e2d2f462b8f2" />
+
 
 The blue curve represents the values measured by the lps22hb pressure sensor. The dashed curves correspond to 3 physical models of the relationship between pressure and altitude :
 
