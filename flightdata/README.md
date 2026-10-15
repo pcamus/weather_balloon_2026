@@ -124,7 +124,7 @@ Formula 1 & 2.<br>
 $alt= alt_{ref}+29.271 \cdot T_{abs} \cdot ln({\frac{p_{ref}}{p}})$
 
 Formula 3.<br>
-$alt= alt_{ref}+153.846 \cdot T_{abs} \cdot {[1-{\frac{p}{p_{ref}}}]}^0.190263$
+$alt= alt_{ref}+153.846 \cdot T_{abs} \cdot {[1-{\frac{p}{p_{ref}}}]}^{0.190263}$
 
 Références : 
 - [thermodynamic formule](https://en.wikipedia.org/wiki/Hypsometric_equation)
