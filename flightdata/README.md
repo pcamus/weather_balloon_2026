@@ -120,7 +120,8 @@ The blue curve represents the values measured by the lps22hb pressure sensor. Th
 2. Thermodynamic formula (ideal gas law) accounting for the temperature at each measurement point.
 3. Barometric altitude (used in aviation).
 
-alt= alt_{ref}+29.271 T_{"abs"} ln( {p_{ref}} over {p}) 
+$alt= alt_{ref}+29.271 T_{"abs"} ln( {p_{ref}} over {p})$
+
 
 ## Battery behavior.
 
