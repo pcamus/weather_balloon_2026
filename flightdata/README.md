@@ -120,9 +120,16 @@ The blue curve represents the values measured by the lps22hb pressure sensor. Th
 2. Thermodynamic formula (ideal gas law) accounting for the temperature at each measurement point.
 3. Barometric altitude (used in aviation).
 
+Formula 1 & 2.
 $alt= alt_{ref}+29.271 \cdot T_{abs} \cdot ln({\frac{p_{ref}}{p}})$
 
-$alt= alt_{ref}+153.846 \cdot T_{abs} \cdot {[1-{\frac{p}{p_{ref}}}]}^2$
+Formula 3.
+$alt= alt_{ref}+153.846 \cdot T_{abs} \cdot {[1-{\frac{p}{p_{ref}}}]}^0.190263$
+
+Référence : 
+- [thermodynamic formule](https://en.wikipedia.org/wiki/Hypsometric_equation)
+- [Barometric altitude](https://en.wikipedia.org/wiki/Barometric_formula)
+- [Barometric formula and aviation](https://www.tarmacview.com/glossary/barometric-altitude/)
 
 
 
