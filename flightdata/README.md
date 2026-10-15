@@ -132,6 +132,8 @@ Références :
 - [Barometric altitude formula](https://en.wikipedia.org/wiki/Barometric_formula)
 - [Barometric formula and aviation](https://www.tarmacview.com/glossary/barometric-altitude/)
 
+>[!Note]
+>The absolute pressure at Uccle measured by our sensor is 1007.2 hPa, compared to 1003.6 hPa reported by the local weather station, representing a difference of 0.4%.
 <br>
 
 ## Battery behavior.
