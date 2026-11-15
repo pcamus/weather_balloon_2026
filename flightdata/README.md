@@ -50,7 +50,7 @@ The flight began at 2:13 PM local time (Brussels) and ended at 5:53 PM, for a to
       <p></p>
       <p>Three forces are at play:      
         
-- **Weight** (of the balloon and payload): $W = (m_{\text{balloon vide}} + m_{\text{payload}}) \cdot g$
+- **Weight** (of the balloon and payload): $W = (m_{\text{balloon}} + m_{\text{payload}}) \cdot g$
 - **Drag force**: $D = \frac{1}{2} \cdot C_x \cdot \rho_{\text{air}} \cdot S \cdot v^2$
   </p>
   <p>Due to Newton's second law: $m \cdot a = m \cdot \frac{dv}{dt} = \sum \vec{F}_i$
@@ -73,7 +73,8 @@ The data were extracted from the radio amateur flight files in [amateur.sondehub
 
 The average measured ascent velocity over the first 1,000 m is <b>4m/s</b>, and the descent velocity is <b>3.3 m/s</b>.Theoretical calculations for a 48-inch balloon with a 250 g payload, an ascent Cx of 0.47([see here](https://www.mecaflux.com/en/ecoulements%20et%20trainee%20de%20sphere.htm)), a descent Cx of 0.75, and a parachute surface area of 0.79 m² give <b>4.8 m/s</b> for the ascent and <b>2.8 m/s</b> for the descent.
 
-To perform the theoretical calculation, we assume terminal velocity by setting the acceleration term to zero ($\frac{dv}{dt} = 0$). 
+To perform the theoretical calculation, we assume terminal velocity by setting the acceleration term to zero ($\frac{dv}{dt} = 0$).
+For the otherparameters we take $\rho_{\text{air}}=1.292 kg/m^3, g=9.81m/s^2, balloon diameter = 1.22 m thus V_{\text{balloon}}= 0.905 m^3$
 <br>
 
 ## Temperature profile of atmosphere.
