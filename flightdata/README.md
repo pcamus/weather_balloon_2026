@@ -34,6 +34,7 @@ The flight began at 2:13 PM local time (Brussels) and ended at 5:53 PM, for a to
 
   <p> $S$ is the cross section of the ballon, $v$ the ascent velocity and $C_x$ the aerodynamic coefficient</p>
   <p>Velocity is positive upwards.</p>
+  m = m_{\text{balloon}} + m_{\text{payload}}
     </td>
   </tr>
 </table>
