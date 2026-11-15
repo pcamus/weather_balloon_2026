@@ -30,7 +30,7 @@ The flight began at 2:13 PM local time (Brussels) and ended at 5:53 PM, for a to
     and taking into account the signs of the forces, this leads to:</p>
     <p> 
     $$m \cdot \frac{dv}{dt} = \rho_{\text{air}} \cdot V_{\text{balloon}} \cdot g - m \cdot g - \frac{1}{2} \cdot C_x \cdot \rho_{\text{air}} \cdot S \cdot v^2 $$
-      <p>$m = m_{\text{balloon}} + m_{\text{payload}}$</p>  
+    <p>$m = m_{\text{balloon}} + m_{\text{payload}}$</p>  
     </p>
 
   <p> $S$ is the cross section of the ballon, $v$ the ascent velocity and $C_x$ the aerodynamic coefficient</p>
@@ -56,8 +56,9 @@ The flight began at 2:13 PM local time (Brussels) and ended at 5:53 PM, for a to
   <p>Due to Newton's second law: $m \cdot a = m \cdot \frac{dv}{dt} = \sum \vec{F}_i$
     and taking into account the signs of the forces, this leads to:</p>
     <p>   
-      $$m \cdot \frac{dv}{dt} = \frac{1}{2} \cdot C_x \cdot \rho_{\text{air}} \cdot S \cdot v^2 - (m_{\text{balloon vide}} + m_{\text{payload}}) \cdot g$$
+      $$m \cdot \frac{dv}{dt} = \frac{1}{2} \cdot C_x \cdot \rho_{\text{air}} \cdot S \cdot v^2 - m \cdot g$$
     </p>
+     <p>$m = m_{\text{balloon}} + m_{\text{payload}}$</p> 
   </p>
   <p> $S$ is the cross section of the ballon, $v$ the ascent velocity and $C_x$ the aerodynamic coefficient</p>
   <p>Velocity is positive upwards.</p>
