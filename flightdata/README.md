@@ -75,7 +75,7 @@ The average measured ascent velocity over the first 1,000 m is <b>4m/s</b>, and 
 
 To perform the theoretical calculation, we assume terminal velocity by setting the acceleration term to zero ($\frac{dv}{dt} = 0$).
 
-For the otherparameters we take $\rho_{\text{air}}=1.292 kg/m^3$, g = $9.81m/s^2$, balloon diameter = $1.22 m$ and so $V_{\text{balloon}} = 0.905 m^3$ balloon mass (filled with hydrogen) = $0.326kg$ balloon cross section = $1.167m^2$.
+For the other parameters we take $\rho_{\text{air}}=1.292 kg/m^3$, g = $9.81m/s^2$, balloon diameter = $1.22 m$ and so $V_{\text{balloon}} = 0.905 m^3$ balloon mass (filled with hydrogen) = $0.326kg$ balloon cross section = $1.167m^2$.
 <br>
 
 ## Temperature profile of atmosphere.
