@@ -77,8 +77,9 @@ The data were extracted from the radio amateur flight files in [amateur.sondehub
 <p>
 The average measured ascent velocity over the first 1,000 m is <b>4m/s</b>, and the descent velocity is <b>3.3 m/s</b>.Theoretical calculations for a 48-inch balloon with a 250 g payload, an ascent Cx of 0.47[test](line), a descent Cx of 0.75, and a parachute surface area of 0.79 m² give <b>4.8 m/s</b> for the ascent and <b>2.8 m/s</b> for the descent.
 </p>
-The data were extracted from the radio amateur flight files in [amateur.sondehub.org](https://amateur.sondehub.org/#!mt=Mapnik&mz=9&qm=31d&mc=51.2292,5.08887&f=ON7OT-11&q=ON7OT-11). 
 
+<p>The data were extracted from the radio amateur flight files in [amateur.sondehub.org](https://amateur.sondehub.org/#!mt=Mapnik&mz=9&qm=31d&mc=51.2292,5.08887&f=ON7OT-11&q=ON7OT-11). 
+</p>
 <p>
 To perform the theoretical calculation, we assume terminal velocity by setting the acceleration term to zero ($\frac{dv}{dt} = 0$). 
 </p>
