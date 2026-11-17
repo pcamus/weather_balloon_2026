@@ -3,16 +3,16 @@
 All photos by ON4KA.
 
 <img width="1620" height="1080" alt="IRM260927_01" src="https://github.com/user-attachments/assets/b83ff5bb-7010-49ba-8d74-f66320d47e90" />
-The launch of the weather balloon took place to commemorate the 200th anniversary of the RMI" (Royal Meteorological Institute)
+The launch of the weather balloon took place to commemorate the 200th anniversary of the RMI" (Royal Meteorological Institute)<br>
 
 <img width="1620" height="1080" alt="IRM260927_02" src="https://github.com/user-attachments/assets/f9d0ce24-5063-4142-adbb-a2f00ba5b4a5" />
-Amateur radio operators' booth for tracking the balloon's flight
+Amateur radio operators' booth for tracking the balloon's flight<br>
 
 <img width="608" height="1080" alt="IRM260927_03" src="https://github.com/user-attachments/assets/6387ddc7-dc6d-4043-b170-8f9042f9da22" />
-The parachute, neatly packed
+The parachute, neatly packed<br>
 
 <img width="720" height="1080" alt="IRM260927_04" src="https://github.com/user-attachments/assets/cc8fa169-c9aa-4559-921f-7aff857de133" />
-What is left of the balloon after popping at the top of its flight
+What is left of the balloon after popping at the top of its flight<br>
 
 <img width="1620" height="1080" alt="IRM260927_05" src="https://github.com/user-attachments/assets/8c121623-179f-4280-a27a-08f123bb0ced" />
 Payload contents: the radiosonde (in an expanded polystyrene case), my onboard experiment (in the black box), and the external temperature sensor cable
