@@ -5,8 +5,7 @@ All photos by ON4KA.
 <img width="1620" height="1080" alt="IRM260927_01" src="https://github.com/user-attachments/assets/b83ff5bb-7010-49ba-8d74-f66320d47e90" />
 _The launch of the weather balloon took place to commemorate the 200th anniversary of the RMI" (Royal Meteorological Institute)_
 
-<br>
-<br>
+
 
 <img width="1620" height="1080" alt="IRM260927_02" src="https://github.com/user-attachments/assets/f9d0ce24-5063-4142-adbb-a2f00ba5b4a5" />
 _Amateur radio operators' booth for tracking the balloon's flight_
