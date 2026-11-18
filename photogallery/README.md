@@ -1,6 +1,6 @@
 # Some of the photos taken at the balloon launch
 
-All photos by ON4KA.
+All photos by **ON6KA**.
 
 <img width="1620" height="1080" alt="IRM260927_01" src="https://github.com/user-attachments/assets/b83ff5bb-7010-49ba-8d74-f66320d47e90" />
 
