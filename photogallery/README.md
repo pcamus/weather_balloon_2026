@@ -67,7 +67,7 @@ _Off to the stratosphere!_
 <br>
 <br>
 
-[Launch of the balloon](https://youtube.com/shorts/r3exulDGglc)
+**Vidéo :** [Launch of the balloon](https://youtube.com/shorts/r3exulDGglc)
 
 
 
